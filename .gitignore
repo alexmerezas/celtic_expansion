@@ -1,0 +1,16 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# logs / temp
+*.log
+*.tmp
+*.bak
+
+# Paradox/launcher garbage (if it ever appears)
+launcher-cache/
+playsets.json
+dlc_load.json

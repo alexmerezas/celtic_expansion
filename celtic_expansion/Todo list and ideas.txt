@@ -1,0 +1,23 @@
+TODO list:
+
+Add Northumbrian culture for English (Northumbria primary)
+Add Manx culture out of Highlander (Mann primary)
+Add Gaelica as a formable?
+Add Celtica as a formable
+
+Mission ideas:
+
+1. Petty Kingdoms of Éire (own at least 2 provinces) -> reward?
+2. Unite the Túatha (Own and core X% (e.g. 60–80%) of provinces in the Ireland region) -> reward?
+2.1 a. conquer connacht b. conquer leinster c. conquer ulster d. conquer munster?
+3. High King of Ireland (form Ireland) -> reward? event chain: coronation
+4. End the Pale (No non-Irish country owns provinces in the Ireland region) -> reward?
+5. Masters of the Isles (own and core all of the Ireland region and at least 50% of the Britain region) -> reward?
+6. Guardians of Britannia (great power status
+
+ire_defensive_alliances
+position = 1
+required = none
+highlight = none
+trigger = two allies with at least 100 development
+effect = diplomatic rep bonus?
