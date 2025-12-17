@@ -208,6 +208,7 @@ ire_conquest_2 = {
 	# position = 3
 	ire_the_clan_fleets = {
 		icon = mission_naval_dominance
+		position = 3
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
 				has_port = yes
